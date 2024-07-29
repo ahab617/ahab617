@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on telegram bot project.
-- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on web3 startup projects.
 - 
 - 💬 Ask me about

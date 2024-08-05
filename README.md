@@ -1,7 +1,6 @@
 ## 👋 Hi, there. I am King Ahab. 😎
 
 
-- 🔭 I’m currently working on telegram bot project.
 - 👯 I’m looking to collaborate on web3 startup projects.
 - 
 - 💬 Ask me about

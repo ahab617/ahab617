@@ -12,4 +12,3 @@
 - 
 - 📫 How to reach me:
 - ⭐️Telegram: 📱https://t.me/KingAhab📱
-- ⭐️Discord: 📱kingahab.sol📱

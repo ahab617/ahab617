@@ -2,7 +2,8 @@
 
 
 - 👯 I’m looking to collaborate on web3 startup projects.
-- 
+- 👜 Shopify Expert 🚀🚀🚀
+
 - 💬 Ask me about
 - Blockchain:  `Solidity` | `Move` | `Rust` | `web3.js ` | `ethers.js` | `Crypto Wallet Extension`
 - Front-end:   `React` | `Angular` | `Vue.js`

@@ -1,10 +1,10 @@
 ## 👋 Hi, there. I am King Ahab. 😎
 
 
-- 👩‍💻 I am AI Automation & Blockchain Developer 🚀🚀🚀
+- 👩‍💻 I am AI Automation Expert | N8N | GHL 🚀🚀🚀
 
 - 💬 Ask me about
-- AI Automation: `Zapier` | `n8n` | `make.com`
+- AI Automation: `Zapier` | `N8N` | `Make.com` | `Bubble` | `Hubspot` | `Zoho` | `GHL`
 - Blockchain:  `Solidity` | `Move` | `Rust` | `web3.js ` | `ethers.js` | `Crypto Wallet Extension`
 - Front-end:   `React` | `Angular` | `Vue.js`
 - Back-end:    `Flask` | `Django` | `Node.js` | `PHP` | `Svelte`
